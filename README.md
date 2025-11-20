@@ -1,9 +1,9 @@
 Danny Hido - CS 33211 Operating Systems - Fall 2025
 # OS Assignment Two
 
-This project implements the Bankers Algoritm. The Bankers Algorithm is a deadlock-avoidance method used in operating systems to ensure resource allocation to processes never
+This project implements the Banker's Algorihtm. The Banker's Algorithm is a deadlock-avoidance method used in operating systems to ensure resource allocation to processes never
 enters an unsafe state. The algorithm checks whether a system has enough available resources to satisfy the maximum needs of every process without causing deadlock.
-This project implements a simulation of the Bankers Algorithm.
+This project implements a simulation of the Banker's Algorithm.
 
 ## Files
 input.txt - contains details on the system under simulation. Contains information on process allocation, maximum, and available resources.  
