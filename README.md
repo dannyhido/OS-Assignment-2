@@ -6,8 +6,8 @@ enters an unsafe state. The algorithm checks whether a system has enough availab
 This project implements a simulation of the Bankers Algorithm.
 
 ## Files
-input.txt - contains details on the system under simulation. Contains information on process allocation, maximum, and available resources.
-main.cpp - contains the algorithm. Reads in the systems status and processes from input.txt then runs the Bankers Algorithm to check if the system is in a safe state. The result is outputted to the console.
+input.txt - contains details on the system under simulation. Contains information on process allocation, maximum, and available resources.  
+main.cpp - contains the algorithm. Reads in the systems status and processes from input.txt then runs the Bankers Algorithm to check if the system is in a safe state. The result is outputted to the console.  
 
 ## How to Run
 
