@@ -11,9 +11,9 @@ main.cpp - contains the algorithm. Reads in the systems status and processes fro
 
 ## How to Run
 
-Must be run in a linux environment with g++ compiler
+Must be run in a linux environment with g++ compiler  
 
-compile main.cpp: g++ main.cpp -o main
-run in terminal: ./main
+compile main.cpp: g++ main.cpp -o main  
+run in terminal: ./main  
 
-output will be state of the system (safe or unsafe) and order of processes (if safe).
+output will be state of the system (safe or unsafe) and order of processes (if safe).  
